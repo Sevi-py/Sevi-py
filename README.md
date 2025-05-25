@@ -10,7 +10,7 @@
 
 ## 🌟 Featured Project
 
-[tnyr.me](https://tnyr.me) – My favorite project, where I’ve put my skills into action!
+[tnyr.me](https://tnyr.me) – Open Source URL shortener with a focus on privacy
 
 ## 📫 Connect with Me
 
