@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Sevi-py!
 
-<!--
-**Sevi-py/Sevi-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student** with a passion for building, learning, and exploring the world of tech.
 
-Here are some ideas to get you started:
+## 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently diving deep into finance and crypto
+- 🛠️ Currently working with: **Python**, **Keras**, **NextJS**, **Tailwind**
+- 🚀 Exploring new ideas & always upskilling
+
+## 🌟 Featured Project
+
+[tnyr.me](https://tnyr.me) – My favorite project, where I’ve put my skills into action!
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-placeholder)](https://www.linkedin.com/in/severin-hilbert)
+
+---
+
+> Always learning. Always building.
