@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Sevi-py!
+# 👋 Hi, I'm Severin!
 
 🎓 **Student** with a passion for building, learning, and exploring the world of tech.
 
 ## 💡 About Me
 
 - 🔭 Currently diving deep into finance and crypto
-- 🛠️ Currently working with: **Python**, **Keras**, **NextJS**, **Tailwind**
+- 🛠️ Working with: **Python**, **NextJS**, **Tailwind**
 - 🚀 Exploring new ideas & always upskilling
 
 ## 🌟 Featured Project
@@ -14,7 +14,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-placeholder)](https://www.linkedin.com/in/severin-hilbert)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/severin-hilbert/)
 
 ---
 
