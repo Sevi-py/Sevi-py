@@ -5,7 +5,7 @@
 ## 💡 About Me
 
 - 🔭 Currently diving deep into finance and crypto
-- 🛠️ Working with: **Python**, **NextJS**, **Tailwind**
+- 🛠️ Curently working with: **Python**, **Keras**, **NextJS**, **Tailwind**
 - 🚀 Exploring new ideas & always upskilling
 
 ## 🌟 Featured Project
