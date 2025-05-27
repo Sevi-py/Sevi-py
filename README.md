@@ -14,7 +14,8 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/severin-hilbert/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/severin-hilbert/) 
+[![Twitter](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=x)](https://x.com/evverin)
 
 ---
 
