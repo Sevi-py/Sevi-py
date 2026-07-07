@@ -33,6 +33,10 @@ Premium rental and group-travel software focused on fair host economics, transpa
 
 A privacy-focused URL shortener where sensitive work happens in the browser. The server stores only a storage key and encrypted destination data, so original links stay private by design.
 
+### [Coolify Codex Plugin](https://github.com/Sevi-py/coolify-codex-plugin)
+
+Codex plugin for controlling Coolify Cloud and self-hosted Coolify instances through a local MCP server.
+
 ## Stack
 
 <p>
