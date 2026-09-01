@@ -7,14 +7,13 @@
   <a href="https://github.com/Sevi-py"><img src="https://img.shields.io/badge/github-Sevi--py-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/severin-hilbert/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/evverin"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
+</p>
 
 <p>
-<img src="https://img.shields.io/badge/based%20in-Vienna,%20Austria-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Vienna, Austria">
+  <img src="https://img.shields.io/badge/based%20in-Vienna,%20Austria-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Vienna, Austria">
 </p>
 
 </div>
-
-
 
 ## About
 
@@ -36,6 +35,10 @@ A privacy-focused URL shortener where sensitive work happens in the browser. The
 ### [Coolify Codex Plugin](https://github.com/Sevi-py/coolify-codex-plugin)
 
 Codex plugin for controlling Coolify Cloud and self-hosted Coolify instances through a local MCP server.
+
+### [DueChime](https://duechime.flarely.at/)
+
+A calendar-based reminder app for iPhone that keeps reminders alongside their dates, with optional alarm-style alerts, sound, and snooze. Reminders stay on the device, and no account is required.
 
 ## Stack
 
