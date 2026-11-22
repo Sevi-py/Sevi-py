@@ -52,7 +52,7 @@ A calendar-based reminder app for iPhone that keeps reminders alongside their da
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
-  <img src="https://img.shields.io/badge/Tailwind%20Code-111111?style=for-the-badge&logo=openai&logoColor=white" alt="T3 Code">
+  <img src="https://img.shields.io/badge/T3%20Code-111111?style=for-the-badge&logo=openai&logoColor=white" alt="T3 Code">
 </p>
 
 ## Career
