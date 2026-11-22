@@ -28,6 +28,10 @@ I'm a developer focused on building useful, polished software with a bias toward
 
 Premium rental and group-travel software focused on fair host economics, transparent fees, host support, instant listing import, and AI-powered guest operations.
 
+### [Hangtime](https://github.com/Sevi-py/hangtime)
+
+A macOS menu bar app that shows how much of your Claude Code, Codex, Grok CLI and Antigravity limits you have left, with reset times, desktop widgets, a cost and token dashboard, and notifications when limits reset or run low.
+
 ### [tnyr.me](https://tnyr.me) · [source](https://github.com/Sevi-py/tnyr.me)
 
 A privacy-focused URL shortener where sensitive work happens in the browser. The server stores only a storage key and encrypted destination data, so original links stay private by design.
